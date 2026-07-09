@@ -1,0 +1,6 @@
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones de la aplicación.
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos o acciones que no deberían estar disponibles para cualquier persona.
+La autenticación ayuda a controlar quién puede crear causas, apoyar iniciativas o modificar datos.
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens ni claves de API.
+La protección de sesiones también evita que terceros accedan a cuentas ajenas.
+Estas medidas fortalecen la confianza y la seguridad de la plataforma.
